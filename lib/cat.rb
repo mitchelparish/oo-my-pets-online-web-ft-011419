@@ -5,5 +5,5 @@ class Cat
   end 
 
 
-  
+
 end
