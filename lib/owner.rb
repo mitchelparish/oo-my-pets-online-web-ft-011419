@@ -62,8 +62,9 @@ class Owner
 
   def self.count
     @@all.count
+    @@all.clear
   end
-  
 
+  
 
 end
