@@ -3,7 +3,7 @@ class Owner
   attr_accessor
   attr_reader :species
 
-  def initialize 
+  def initialize
     @species = species
   end
 
