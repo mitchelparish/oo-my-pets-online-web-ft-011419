@@ -20,6 +20,11 @@ class Owner
     pets[:fishes] << Fish.new(name)
   end
 
+  def say_species
+   "I am a #{species}"
+  end
+
+
 
 
 
