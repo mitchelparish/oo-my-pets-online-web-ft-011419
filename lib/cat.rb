@@ -6,11 +6,4 @@ class Cat
     @name = name
     @name = "nervous"
   end
-
-
-
-
-
-
-
 end
