@@ -45,5 +45,5 @@ class Owner
   def sell_pets
     @pets.clear
   end 
-  
-end 
+
+end
