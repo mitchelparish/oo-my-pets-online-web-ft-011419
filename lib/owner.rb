@@ -43,7 +43,9 @@ class Owner
   end
 
   def sell_pets
-    @pets.clear
-  end 
+    @pets.all do |species, animal|
+      animal.mood = "nervous"
+    end 
+  end
 
 end
